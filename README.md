@@ -8,4 +8,4 @@
 debsouryadatta/debsouryadatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![debsouryadatta's GitHub | Stats](https://stats.quine.sh/debsouryadatta/github?theme=light)](https://quine.sh)
+
