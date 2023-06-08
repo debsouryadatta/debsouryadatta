@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebD
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Instagram - debsourya_datta
-- 📫 How to reach me - Instagram, Twitter.
+- 📫 How to reach me - Instagram, Twitter, LinkedIn
 
 <!---
 debsouryadatta/debsouryadatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
