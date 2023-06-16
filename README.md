@@ -3,6 +3,8 @@
 debsouryadatta/debsouryadatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![OPEN SOURCE CONTRIBUTOR](https://github.com/debsouryadatta/debsouryadatta/assets/91617309/5bf8c5d9-9d61-4865-b5da-23b923dd9cdb)
+
 
 # 💫 About Me:
 👋 Hi, I’m @debsouryadatta.<br>👀 I’m interested in WebD.<br>🔭 I’m currently working on Open Source Projects.<br>💞️ I’m looking to collaborate on LinkedIn.<br>🌱 I’m currently learning NEXTJs, Ts, Tailwind CSS Combo.<br>💬 Ask me about MERN Stack Development<br>⚡ Fun fact : I enjoying chilling out!
