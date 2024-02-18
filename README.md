@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
-👋 Hi, I’m @debsouryadatta.<br>👀 I’m interested in WebD.<br>🔭 I’m currently working on Open Source Projects.<br>💞️ I’m looking to collaborate on LinkedIn.<br>🌱 I’m currently learning NEXTJs, Ts, Tailwind CSS Combo.<br>💬 Ask me about MERN Stack Development<br>⚡ Fun fact : I enjoying chilling out!
+👋 Hi, I’m @debsouryadatta.<br>👀 I’m interested in WebD.<br>🔭 I’m currently working on Open Source Projects.<br>💞️ I’m looking to collaborate on LinkedIn & Twitter.<br>🌱 I’m currently learning React Native, Ts.<br>💬 Ask me about Full Stack Development<br>⚡ Fun fact : I enjoy chilling out!
 
 
 ## 🌐 Socials:
