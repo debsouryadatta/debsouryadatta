@@ -93,7 +93,6 @@ You can click the Preview link to take a look at your changes.
 
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white) 
 ![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black) 
-![crewAI](https://img.shields.io/badge/crewAi-461816?style=for-the-badge&logo=crewai&logoColor=white)
 
 
 
