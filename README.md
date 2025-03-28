@@ -13,23 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 🚀 About Me:
+## About Me:
 
-- 🤿 Diving Deep into Full Stack.
-- ✪ Open Source Enthusiast.
-- ❣️ Development is pretty much near to my heart.
-- 🌏 Passionate about solving Real World Problems.
-- 👨‍💻 Doing PhD in Debugging.
--  ☕ Chill x Code
+- Full Stack Developer 
+- Enjoy building & shipping stuff 🚀
+- Ai biased ❣️
+- Chill x Code ☕
 
 
-
-<!--- ✌️ Hola Amigos, I’m @debsouryadatta.-->
-<!--- 👨‍💻️ Enjoy creating stuff with Coding-->
-<!--- 🦾 Love to learn & explore on TECH.-->
-<!--- 💬 Ask me about Full Stack Development-->
-<!--- ⚡ Fun fact : I enjoy chilling out!-->
-<!--- Love to deal with Real world problems-->
 
 
 
@@ -42,13 +33,13 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 🌐 Socials:
+## Socials:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/debsourya005) 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debsourya-datta-177909225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debsourya-datta-177909225)
 
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@souryatalks4201?si=TRJh1zxwwnx6bZsx) 
 
 
 
@@ -63,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 💻 Tech Stack:
+## Tech Stack:
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -113,7 +104,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=debsouryadatta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=debsouryadatta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debsouryadatta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -130,7 +121,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
