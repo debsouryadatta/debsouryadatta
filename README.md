@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me:
 
-- Full Stack Developer
+- Full Stack Engineer
 - Enjoy building & shipping stuff 🚀
 - Ai biased ❣️
 - Chill x Code ☕
