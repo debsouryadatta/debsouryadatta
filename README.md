@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - Full Stack Engineer
 - Enjoy building & shipping stuff 🚀
-- Ai biased ❣️
+- AI biased ❣️
 - Chill x Code ☕
 
 <br/>
